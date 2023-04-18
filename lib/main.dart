@@ -207,7 +207,7 @@ class FavoritesPage extends StatelessWidget {
             leading: Icon(Icons.favorite),
             title: Text(pair.asLowerCase),
           ),
-        
+
       ],
     );
   }
